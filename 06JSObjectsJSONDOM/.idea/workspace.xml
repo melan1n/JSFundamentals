@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="139efbe9-2052-4f98-ad64-534ef011621e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../05JSStringsAndRegex/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../05JSStringsAndRegex/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../05JSStringsAndRegex/03_James-Bond/solution.js" afterPath="$PROJECT_DIR$/../05JSStringsAndRegex/03_James-Bond/solution.js" />
-      <change beforePath="$PROJECT_DIR$/../05JSStringsAndRegex/04_Airport-Check/solution.js" afterPath="$PROJECT_DIR$/../05JSStringsAndRegex/04_Airport-Check/solution.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/01.Shopping-Cart/solution.js" afterPath="$PROJECT_DIR$/01.Shopping-Cart/solution.js" />
+      <change beforePath="$PROJECT_DIR$/02.Furniture/solution.js" afterPath="$PROJECT_DIR$/02.Furniture/solution.js" />
+      <change beforePath="$PROJECT_DIR$/03.Forum/solution.js" afterPath="$PROJECT_DIR$/03.Forum/solution.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,26 +20,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.Shopping-Cart/template.html">
+        <entry file="file://$PROJECT_DIR$/03.Forum/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="17" />
+            <state relative-caret-position="609">
+              <caret line="41" column="57" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="solution.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01.Shopping-Cart/solution.js">
+        <entry file="file://$PROJECT_DIR$/03.Forum/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="252">
+              <caret line="72" column="27" lean-forward="true" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
+              <folding>
+                <element signature="e#283#2107#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -47,6 +57,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/01.Shopping-Cart/solution.js" />
+        <option value="$PROJECT_DIR$/01.Shopping-Cart/template.html" />
+        <option value="$PROJECT_DIR$/01.Shopping-Cart/exercisesolution.js" />
+        <option value="$PROJECT_DIR$/02.Furniture/solution.js" />
+        <option value="$PROJECT_DIR$/03.Forum/template.html" />
+        <option value="$PROJECT_DIR$/03.Forum/solution.js" />
       </list>
     </option>
   </component>
@@ -63,7 +78,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-6" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -94,7 +109,12 @@
             <path>
               <item name="06JSObjectsJSONDOM" type="b2602c69:ProjectViewProjectNode" />
               <item name="06JSObjectsJSONDOM" type="462c0819:PsiDirectoryNode" />
-              <item name="01.Shopping-Cart" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Furniture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06JSObjectsJSONDOM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06JSObjectsJSONDOM" type="462c0819:PsiDirectoryNode" />
+              <item name="03.Forum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,8 +142,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.template.html (2)">
+    <configuration name="template.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/06JSObjectsJSONDOM/02.Furniture/template.html" />
+    <configuration name="template.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/06JSObjectsJSONDOM/03.Forum/template.html" />
     <configuration name="template.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/06JSObjectsJSONDOM/01.Shopping-Cart/template.html" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.template.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.template.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.template.html (2)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.template.html (2)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.template.html (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -139,15 +172,15 @@
       <option name="presentableId" value="Default" />
       <updated>1549579044509</updated>
       <workItem from="1549579045768" duration="2625000" />
-      <workItem from="1549581873986" duration="2912000" />
+      <workItem from="1549581873986" duration="21880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5537000" />
+    <option name="totallyTimeSpent" value="24505000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
+    <frame x="-6" y="0" width="976" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -196,19 +229,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.Shopping-Cart/template.html">
+    <entry file="file://$PROJECT_DIR$/01.Shopping-Cart/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.Shopping-Cart/solution.js">
+    <entry file="file://$PROJECT_DIR$/01.Shopping-Cart/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="696">
+          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Shopping-Cart/exercisesolution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Furniture/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="59" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#getValue#0;n#!!block;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Furniture/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Forum/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="41" column="57" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Forum/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="72" column="27" lean-forward="true" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
+          <folding>
+            <element signature="e#283#2107#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
